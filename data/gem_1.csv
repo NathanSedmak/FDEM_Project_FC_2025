@@ -1,4 +1,4 @@
-Line,Sample,Easting [m],Northing [m],Mark,Status,GPSStat,GPSalt,Time[ms],Time[hhmmss.sss],PowerLn,I_450Hz [ppm],Q_450Hz [ppm],I_1530Hz [ppm],Q_1530Hz [ppm],I_5310Hz [ppm],Q_5310Hz [ppm],I_18330Hz [ppm],Q_18330Hz [ppm],I_63030Hz [ppm],Q_63030Hz [ppm],Qsum [ppm]
+Line,Sample,Easting [m],Northing [m],Mark,Status,GPSStat,GPSalt,Time[ms],Time[hhmmss.sss],PowerLn [mG],I_450Hz [ppm],Q_450Hz [ppm],I_1530Hz [ppm],Q_1530Hz [ppm],I_5310Hz [ppm],Q_5310Hz [ppm],I_18330Hz [ppm],Q_18330Hz [ppm],I_63030Hz [ppm],Q_63030Hz [ppm],Qsum [ppm]
 1,5,344123.35,4482801.47,0,0,4,2114.74,66603914.2,183003.9142,4.7,8.20E+01,7.71E+02,7.78E+02,7.97E+02,1.23E+03,1.49E+03,1.77E+03,4.06E+03,4.41E+03,1.18E+04,1.89E+04
 1,6,344123.35,4482801.47,0,0,4,2114.74,66604014.2,183004.0142,3.3,7.46E+01,6.71E+02,7.46E+02,7.86E+02,1.17E+03,1.47E+03,1.79E+03,4.09E+03,4.32E+03,1.18E+04,1.88E+04
 1,7,344123.35,4482801.48,0,0,4,2114.74,66604114.2,183004.1142,4.4,6.08E+01,6.65E+02,6.79E+02,8.35E+02,1.18E+03,1.56E+03,1.84E+03,4.19E+03,4.30E+03,1.17E+04,1.90E+04
