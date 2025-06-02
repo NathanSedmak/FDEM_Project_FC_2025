@@ -1,6 +1,6 @@
 General:
 - All inversions were done with the edge adjusted and noise reduced data reduced to every 5th measurement
--  450Hz data was dropped for all inversions
+- 450Hz data was dropped for all inversions
 - Starting EC = 20 mS/m for all inversions
 
 Base Inversion:
