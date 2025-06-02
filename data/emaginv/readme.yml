@@ -2,7 +2,7 @@ General:
 - All inversions were done with the edge adjusted and noise reduced data reduced to every 5th measurement
 - Starting EC = 20 mS/m for all inversions
 
-Inversion Base:
+Base Inversion:
 - 0.1 m thick
 - 100 layers
 - V_smooth = 0.05
