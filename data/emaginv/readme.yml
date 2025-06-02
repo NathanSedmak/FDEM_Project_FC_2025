@@ -1,25 +1,32 @@
 General:
 - All inversions were done with the edge adjusted and noise reduced data reduced to every 5th measurement
-- 450Hz data was dropped for all inversions
+- 450 Hz data was dropped for the base inversion and tests 1-3
 - Starting EC = 20 mS/m for all inversions
+- Lateral smooth = 0.0 for all inversions
 
 Base Inversion:
 - 0.1 m thick
 - 100 layers
-- V_smooth = 0.05
+- Vertical smooth = 0.05
 
 Test 1:
 - 0.1 m thick
 - 100 layers
-- V_smooth = 0.01
+- Vertical smooth = 0.01
 
 
 Test 2:
 - 0.05 m thick
 - 200 layers
-- V_smooth = 0.05
+- Vertical smooth= 0.05
 
 Test 3:
 - 0.2 m thick
-- V_smooth = 0.05
+- Vertical smooth = 0.05
 - 50 layers
+
+Test 4:
+- 0.1 m thick layers
+- Vertical smooth = 0.05
+- 100 layers
+- Included the 450 Hz data
